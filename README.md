@@ -1,8 +1,8 @@
-# React + Vite
+# responsive-real-state-websitee
+ 
+![Screen Shot 2022-11-16 at 09 17 40](https://user-images.githubusercontent.com/108896341/204130430-8e005af3-9ad9-489d-96bc-3219109da09d.png)
+have the both themes dark and light
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screen Shot 2022-11-16 at 09 18 39](https://user-images.githubusercontent.com/108896341/204130479-f31758da-f746-495f-9cb6-7fa54a5b0fcf.png)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screen Shot 2022-11-16 at 09 20 06](https://user-images.githubusercontent.com/108896341/204130556-278dcec5-a6c4-48f2-a93e-23812922ec34.png)
